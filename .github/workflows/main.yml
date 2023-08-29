@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "柴智超",
+    "phone": "13523728839",
+    "password": "czc111111",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "21e4d986dca045cc9d05fb864eda925899b7",
+    "randomLocation": true,
+    "address": "中国河南省安阳市文峰区义乌国际商贸城",
+    "longitude": "114.38849277339934",
+    "latitude": "36.08233039567736",
+    "pushKey": "6658f91e904c4e10bc921e4d42d9eab0"
+  }
+]
